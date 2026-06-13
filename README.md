@@ -4,7 +4,7 @@ A simple subscription service smart contract deployed on the **Base** network. T
 
 ## Contract Details
 - **Network:** Base Mainnet
-- **Contract Address:** [0xF0ADe9B854A1807d47E02b36a715d0b471bf2c711](https://basescan.org/address/0xF0ADe9B854A1807d47E02b36a715d0b471bf2c711)
+- **Contract Address:** [0xF0ADe9B854A1807d47E02b36a715d0b471bf2c711](https://basescan.org/address/0xF0ADe9B8FeDD11159F0cD0BDCb84B01bf2d2c711)
 - **License:** MIT
 
 ## Features
